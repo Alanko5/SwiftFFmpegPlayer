@@ -2,10 +2,11 @@
 > 本文测试时Mac 10.14.1 (18B75), XCode 10.1 (10B61), Swift 4.2, FFmpeg 4.0.3, 使用测试视频 flv, mp4格式
 
 > status: decode video to yuv data
+> next: render yuv to screen
 
-现有iOS设备CPU
-![](./images/1.png)
-image get from here [iOSデバイス一覧表](https://qiita.com/takkyun/items/814aa45beee422a5f0c6)
+![现有iOS设备CPU](./images/1.png)
+image get from here 
+[iOSデバイス一覧表](https://qiita.com/takkyun/items/814aa45beee422a5f0c6)
 so support arm64 just enough
 
 ## lame download and build
