@@ -1,8 +1,12 @@
 # FFmpeg-iOS from 0 to 0.1
 > 本文测试时Mac 10.14.1 (18B75), XCode 10.1 (10B61), Swift 4.2, FFmpeg 4.0.3, 使用测试视频 flv, mp4格式
 
-> status: decode video to yuv data  
-> next: render yuv to screen
+	1. 视频 解码 tag 0.0.1
+	2. 视频 渲染
+	3. 音频 解码
+	4. 音频 输出
+	5. 音视频 同步
+	6. 音视频播放控制 seek、play、pause、stop
 
 ![现有iOS设备CPU](./images/1.png)  
 image get from here 
