@@ -9,6 +9,9 @@ image get from here
 [iOSデバイス一覧表](https://qiita.com/takkyun/items/814aa45beee422a5f0c6)
 so support arm64 just enough
 
+## Goals
+1. tag 0.0.1 complete video decoder, read file to yuv data
+
 ## lame download and build
 [LAME (Lame Aint an MP3 Encoder) -  Browse /lame at SourceForge.net](https://sourceforge.net/projects/lame/files/lame/)
 now version 3.100
